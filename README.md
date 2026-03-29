@@ -1,4 +1,6 @@
+![Banner](assets/banner.png)
 # IP Intelligence Analyst Workspace
+[Live Demo](YOUR_STREAMLIT_LINK) • [Portfolio](YOUR_GITHUB_PAGES_LINK)
 
 A Streamlit-based analyst workspace for investigating IP addresses, reviewing lightweight risk indicators, documenting findings, and saving analyst case history.
 
@@ -74,9 +76,6 @@ ip
    ```
 4. Add your `IPINFO_TOKEN` as a Streamlit secret or environment variable before deployment.
 
-## Portfolio Blurb
-
-**IP Intelligence Analyst Workspace** is a Streamlit-based cybersecurity investigation demo that supports single-IP and batch-IP analysis, analyst tagging, notes, saved case history, CSV export, and geolocation review. It is designed as a lightweight analyst-facing workspace for triage and documentation.
 
 ## Notes
 
