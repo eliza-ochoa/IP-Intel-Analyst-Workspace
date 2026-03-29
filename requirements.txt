@@ -1,0 +1,7 @@
+requests
+ipinfo
+geoip2
+python-dotenv
+streamlit
+pandas
+Pillow
