@@ -82,3 +82,8 @@ ip
 - `data/investigations.csv` is intended for local demo data only.
 - Do not commit real sensitive investigation data.
 - The risk score is heuristic and should be treated as triage support, not final attribution.
+
+
+## ⚠️ Usage Notice
+This project is part of a professional cybersecurity portfolio.  
+Reuse is permitted under license, but attribution is required.
