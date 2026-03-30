@@ -7,7 +7,7 @@
 # IP Intelligence Analyst Workspace
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ip-intel-analyst-workspace.streamlit.app/)  [![Portfolio](https://img.shields.io/badge/Cyber-Portfolio-pink)](https://eliza-ochoa.github.io/)
 
-A Streamlit-based analyst workspace for investigating IP addresses, reviewing lightweight risk indicators, documenting findings, and saving analyst case history.
+An interactive cybersecurity analyst workspace that supports single-IP and batch-IP investigation, lightweight risk scoring, analyst tagging, and persistent case history. Designed to simulate real-world SOC and GRC workflows with data visualization and export capabilities.
 
 ## Features
 
