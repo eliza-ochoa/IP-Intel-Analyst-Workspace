@@ -82,11 +82,30 @@ ip
 4. Add your `IPINFO_TOKEN` as a Streamlit secret or environment variable before deployment.
 
 
-## Notes
+## Analyst Workflow (Built-In)
+1. Input IP(s)
+2. Enrich with intelligence data
+3. Evaluate risk score
+4. Review indicators
+5. Tag (benign / suspicious / malicious)
+6. Add notes
+7. Save to workspace
+8. Export results
 
-- `data/investigations.csv` is intended for local demo data only.
-- Do not commit real sensitive investigation data.
-- The risk score is heuristic and should be treated as triage support, not final attribution.
+
+## Future Enhancements
+- Threat intelligence API integration (AbuseIPDB / VirusTotal)
+- Case-based investigation tracking
+- Timeline analytics for recurring IPs
+- Automated reporting (PDF generation)
+- Multi-user collaboration support
+
+
+## ⚠️ Disclaimer
+- `data/investigations.csv` is intended for local demo data only
+- Risk scoring is heuristic-based and for demonstration purposes only
+- Not intended for production threat attribution
+- Do not store sensitive or classified investigation data
 
 
 ## ⚠️ Usage Notice
