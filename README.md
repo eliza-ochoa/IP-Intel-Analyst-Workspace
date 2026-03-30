@@ -83,6 +83,7 @@ ip
 
 
 ## Analyst Workflow (Built-In)
+
 1. Input IP(s)
 2. Enrich with intelligence data
 3. Evaluate risk score
@@ -94,6 +95,7 @@ ip
 
 
 ## Future Enhancements
+
 - Threat intelligence API integration (AbuseIPDB / VirusTotal)
 - Case-based investigation tracking
 - Timeline analytics for recurring IPs
@@ -101,13 +103,28 @@ ip
 - Multi-user collaboration support
 
 
+## 🛠️ Known Issues & Limitations
+
+- API responses may vary depending on rate limits or availability  
+- Risk scoring is heuristic-based and intended for demonstration purposes  
+- Batch processing performance depends on API response time  
+- Geolocation accuracy may vary by IP source  
+
+
+## 🐛 Reporting Issues
+
+If you encounter any issues or bugs, please open an issue in this repository.
+
+
 ## ⚠️ Disclaimer
-- `data/investigations.csv` is intended for local demo data only
+
+- `data/investigations.csv` is intended for local demo data only 
 - Risk scoring is heuristic-based and for demonstration purposes only
 - Not intended for production threat attribution
 - Do not store sensitive or classified investigation data
 
 
-## ⚠️ Usage Notice
-This project is part of a professional cybersecurity portfolio.  
-Reuse is permitted under license, but attribution is required.
+## 🤝 Usage Notice
+
+This project is part of a professional cybersecurity portfolio. Reuse is permitted under license, but attribution is required. This project is for educational and demonstration purposes only.
+
