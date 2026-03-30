@@ -1,6 +1,6 @@
 ![Banner](assets/banner.png)
 # IP Intelligence Analyst Workspace
-[Live Demo](YOUR_STREAMLIT_LINK) • [Portfolio](YOUR_GITHUB_PAGES_LINK)
+[Live Demo](https://ip-intel-analyst-workspace.streamlit.app/) • [Portfolio](YOUR_GITHUB_PAGES_LINK)
 
 A Streamlit-based analyst workspace for investigating IP addresses, reviewing lightweight risk indicators, documenting findings, and saving analyst case history.
 
