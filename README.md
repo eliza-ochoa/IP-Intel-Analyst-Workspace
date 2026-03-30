@@ -1,6 +1,11 @@
 ![Banner](assets/banner.png)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-GRC-purple)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+
 # IP Intelligence Analyst Workspace
-[Live Demo](https://ip-intel-analyst-workspace.streamlit.app/) • [Portfolio](https://eliza-ochoa.github.io/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ip-intel-analyst-workspace.streamlit.app/)  [![Portfolio](https://img.shields.io/badge/Cyber-Portfolio-pink)](https://eliza-ochoa.github.io/)
 
 A Streamlit-based analyst workspace for investigating IP addresses, reviewing lightweight risk indicators, documenting findings, and saving analyst case history.
 
